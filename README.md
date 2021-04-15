@@ -2,7 +2,7 @@
 
 ---
 
-A **Programmer** learning Flutter, Python, Java and different things that drives me. A good experience in Flutter & Dart.
+A **Programmer** learning Flutter, Python and different things that drives me. A good experience in Flutter & Dart.
 I'm also learning some other technologies listed in the **toolbox** below.
 Building Interesting **Projects** using Flutter, Python.
 
