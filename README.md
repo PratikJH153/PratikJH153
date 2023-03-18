@@ -4,7 +4,7 @@
 
 A **Programmer** learning Flutter, Python and different things that drives me. A good experience in Flutter & Dart.
 I'm also learning some other technologies listed in the **toolbox** below.
-Building Interesting **Projects** using Flutter, Python.
+Building Interesting **Projects** using Flutter, Python. I am an aspiring software developer who is passionate about building projects and exploring new technologies. I have experience working on web development, mobile app development, and data structures and algorithms. I enjoy contributing to open-source projects as it provides me with the opportunity to gain experience and improve my skills. Additionally, I believe that continuous learning is crucial in this field, and I am committed to further improving my skills. Overall, I am enthusiastic about software development and look forward to a bright future in this field.
 
 I create beautiful looking & Responsive Apps, and have a decent knowledge about both Front-End & Back-End.
 
