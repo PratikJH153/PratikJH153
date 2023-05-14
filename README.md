@@ -26,10 +26,4 @@ Want to increase your productivity and be a master at it, Download
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PratikJH153&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikJH153&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PratikJH153&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=PratikJH153&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
