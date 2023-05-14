@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Jadhav</h1>
 <h3 align="center">Passionate software developer with a love for problem-solving and building innovative solutions. Constantly curious and eager to learn, I enjoy exploring new technologies and expanding my skills. Experienced in Flutter, Dart, Python, AI/ML, NodeJS, Typescript, MongoDB, SQL, I strive to create clean, efficient, and scalable code. Open source enthusiast and believer in the power of collaboration. Let's code together and make a positive impact on the world! 💻✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjh153&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjh153" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikjh153" alt="pratikjh153" /></a> </p>
-
 - 🔭 I’m currently working on [Enthem](https://github.com/PratikJH153/Enthem-Backend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PratikJH153?tab=repositories](https://github.com/PratikJH153?tab=repositories)
@@ -15,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/www.pratikjh.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.pratikjh.com" height="30" width="40" /></a>
+<a href="www.pratikjh.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="www.pratikjh.com" height="30" width="40" /></a>
 <a href="https://twitter.com/@jhpratik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jhpratik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-jadhav-b4bb00208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-jadhav-b4bb00208/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratik-jadhav-b4bb00208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-jadhav-b4bb00208/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user9891k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9891k" height="30" width="40" /></a>
 </p>
 
