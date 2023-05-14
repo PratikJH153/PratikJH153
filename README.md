@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Jadhav</h1>
-<h3 align="center">Passionate software developer with a love for problem-solving and building innovative solutions. Constantly curious and eager to learn, I enjoy exploring new technologies and expanding my skills. Experienced in Flutter, Dart, Python, AI/ML, NodeJS, Typescript, MongoDB, SQL, I strive to create clean, efficient, and scalable code. Open source enthusiast and believer in the power of collaboration. Let's code together and make a positive impact on the world! 💻✨</h3>
+<h3 align="left">Passionate software developer with a love for problem-solving and building innovative solutions. Constantly curious and eager to learn, I enjoy exploring new technologies and expanding my skills. Experienced in Flutter, Dart, Python, AI/ML, NodeJS, Typescript, MongoDB, SQL, I strive to create clean, efficient, and scalable code. Open source enthusiast and believer in the power of collaboration. Let's code together and make a positive impact on the world! 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjh153&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjh153" /> </p>
 
