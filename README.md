@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratik Jadhav</h1>
-<h4 align="left">Passionate software developer with a love for problem-solving and building innovative solutions. Constantly curious and eager to learn, I enjoy exploring new technologies and expanding my skills. Experienced in Flutter, Dart, Python, AI/ML, NodeJS, Typescript, MongoDB, SQL, I strive to create clean, efficient, and scalable code. Open source enthusiast and believer in the power of collaboration. Let's code together and make a positive impact on the world! 💻✨</h4>
+# Hi 👋, I'm Pratik Jadhav
+Passionate software developer with a love for problem-solving and building innovative solutions. Constantly curious and eager to learn, I enjoy exploring new technologies and expanding my skills. Experienced in Flutter, Dart, Python, AI/ML, NodeJS, Typescript, MongoDB, SQL, I strive to create clean, efficient, and scalable code. Open source enthusiast and believer in the power of collaboration. Let's code together and make a positive impact on the world! 💻✨
 <h4>
 I create beautiful looking & Responsive Apps, and have a decent knowledge about both Front-End & Back-End.
 
