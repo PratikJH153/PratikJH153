@@ -13,7 +13,7 @@ Want to increase your productivity and be a master at it, Download
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjh153&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjh153" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Enthem<br><br>👨‍💻 All of my projects are available at https://github.com/PratikJH153?tab=repositories<br><br>💬 Ask me about Flutter, Dart, Python, AI/ML<br><br>📫 How to reach me pratik.jh2017@gmail.com
+👨‍💻 All of my projects are available at https://github.com/PratikJH153?tab=repositories<br><br>💬 Ask me about Flutter, Dart, Python, AI/ML<br><br>📫 How to reach me pratik.jh2017@gmail.com
 
 
 ## 🌐 Socials:
